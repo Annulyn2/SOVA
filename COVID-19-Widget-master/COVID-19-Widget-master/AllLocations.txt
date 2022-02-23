@@ -1,0 +1,279 @@
+/
+/United States
+/United States/Alabama
+/United States/Alaska
+/United States/Arizona
+/United States/Arkansas
+/United States/California
+/United States/Colorado
+/United States/Connecticut
+/United States/Delaware
+/United States/District of Columbia
+/United States/Florida
+/United States/Georgia
+/United States/Hawaii
+/United States/Idaho
+/United States/Illinois
+/United States/Indiana
+/United States/Iowa
+/United States/Kansas
+/United States/Kentucky
+/United States/Louisiana
+/United States/Maine
+/United States/Maryland
+/United States/Massachusetts
+/United States/Michigan
+/United States/Minnesota
+/United States/Mississippi
+/United States/Missouri
+/United States/Montana
+/United States/Nebraska
+/United States/Nevada
+/United States/New Hampshire
+/United States/New Jersey
+/United States/New Mexico
+/United States/New York
+/United States/North Carolina
+/United States/North Dakota
+/United States/Ohio
+/United States/Oklahoma
+/United States/Oregon
+/United States/Pennsylvania
+/United States/Rhode Island
+/United States/South Carolina
+/United States/South Dakota
+/United States/Tennessee
+/United States/Texas
+/United States/Utah
+/United States/Vermont
+/United States/Virginia
+/United States/Washington
+/United States/West Virginia
+/United States/Wisconsin
+/United States/Wyoming
+/Afghanistan
+/Albania
+/Algeria
+/American Samoa
+/Andorra
+/Angola
+/Anguilla
+/Antigua and Barbuda
+/Argentina
+/Armenia
+/Aruba
+/Australia
+/Austria
+/Azerbaijan
+/Bahamas
+/Bahrain
+/Bangladesh
+/Barbados
+/Belarus
+/Belgium
+/Belize
+/Benin
+/Bermuda
+/Bhutan
+/Bolivia
+/Bonaire
+/Bosnia and Herzegovina
+/Botswana
+/Brazil
+/British Virgin Islands
+/Brunei
+/Bulgaria
+/Burkina Faso
+/Burundi
+/Cabo Verde
+/Cambodia
+/Cameroon
+/Canada
+/Cayman Islands
+/Central African Republic
+/Chad
+/Chile
+/China
+/China (mainland)
+/Colombia
+/Congo
+/Congo (DRC)
+/Coral Princess
+/Costa Rica
+/Côte d'Ivoire
+/Croatia
+/Cuba
+/Curaçao
+/Cyprus
+/Czechia
+/Denmark
+/Diamond Princess
+/Djibouti
+/Dominica
+/Dominican Republic
+/Ecuador
+/Egypt
+/El Salvador
+/Equatorial Guinea
+/Eritrea
+/Estonia
+/Eswatini
+/Ethiopia
+/Falkland Islands
+/Faroe Islands
+/Fiji
+/Finland
+/France
+/French Guiana
+/French Polynesia
+/French-Guadeloupe
+/French-Martinique
+/Gabon
+/Gambia
+/Georgia
+/Germany
+/Ghana
+/Gibraltar
+/Greece
+/Greenland
+/Grenada
+/Guadeloupe
+/Guam
+/Guatemala
+/Guernsey
+/Guinea
+/Guinea-Bissau
+/Guyana
+/Haiti
+/Honduras
+/Hong Kong SAR
+/Hungary
+/Iceland
+/India
+/Indonesia
+/Iran
+/Iraq
+/Ireland
+/Isle of Man
+/Israel
+/Italy
+/Jamaica
+/Japan
+/Jersey
+/Jordan
+/Kazakhstan
+/Kenya
+/Kosovo
+/Kuwait
+/Kyrgyzstan
+/Laos
+/Latvia
+/Lebanon
+/Liberia
+/Libya
+/Liechtenstein
+/Lithuania
+/Luxembourg
+/Macao SAR
+/Madagascar
+/Malawi
+/Malaysia
+/Maldives
+/Mali
+/Malta
+/Martinique
+/Mauritania
+/Mauritius
+/Mayotte
+/Mexico
+/Moldova
+/Monaco
+/Mongolia
+/Montenegro
+/Montserrat
+/Morocco
+/Mozambique
+/Myanmar
+/Namibia
+/Nepal
+/Netherlands
+/New Caledonia
+/New Zealand
+/Nicaragua
+/Niger
+/Nigeria
+/North Macedonia
+/Northern Mariana Islands
+/Norway
+/Oman
+/Pakistan
+/Panama
+/Papua New Guinea
+/Paraguay
+/Peru
+/Philippines
+/Poland
+/Portugal
+/Puerto Rico
+/Qatar
+/Republic of the Congo
+/Réunion
+/Romania
+/Russia
+/Rwanda
+/Saba
+/Saint Barthelemy
+/Saint Barthélemy
+/Saint Eustatius
+/Saint Lucia
+/Saint Martin
+/Saint Pierre and Miquelon
+/San Marino
+/São Tomé and Príncipe
+/Saudi Arabia
+/Senegal
+/Serbia
+/Seychelles
+/Sierra Leone
+/Singapore
+/Slovakia
+/Slovenia
+/Somalia
+/South Africa
+/South Korea
+/South Sudan
+/Spain
+/Sri Lanka
+/St Kitts and Nevis
+/St Marten
+/St Vincent and the Grenadines
+/Sudan
+/Suriname
+/Sweden
+/Switzerland
+/Syria
+/Taiwan
+/Tanzania
+/Thailand
+/The Gambia
+/Timor-Leste
+/Togo
+/Trinidad and Tobago
+/Tunisia
+/Turkey
+/Turks and Caicos Islands
+/U.S. Virgin Islands
+/Uganda
+/Ukraine
+/United Arab Emirates
+/United Kingdom
+/Uruguay
+/Uzbekistan
+/Vatican City
+/Venezuela
+/Vietnam
+/West Bank
+/Worldwide
+/Yemen
+/Zambia
+/Zimbabwe
